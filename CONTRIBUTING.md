@@ -12,3 +12,8 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 
 Thank you for your suggestions!
+
+# Adding a Python Zen Rule
+
+If the implementation is hard to explain, it's a bad idea. If the implementation is easy to explain, it may be a good idea.
+
